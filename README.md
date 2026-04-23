@@ -32,9 +32,9 @@ In particular:
 
 ## Implemented baselines
 
-| Baseline | Source paper | Status |
+| Baseline | Source paper | DOI |
 |---|---|---|
-| Alshazly et al. (2021) | *Towards Explainable Ear Recognition Systems Using Deep Residual Networks* | Included |
+| Alshazly et al. (2021) | *Towards Explainable Ear Recognition Systems Using Deep Residual Networks* | [Link](https://doi.org/10.1109/ACCESS.2021.3109441) |
 
 
 
@@ -61,14 +61,14 @@ pip install -r requirements.txt
 Example:
 
 ```bash
-cd baselines/alshazly2021_explainable_resnets
+cd baselines/ExplainableEar[23]
 python main.py --dataset-root /path/to/dataset --variant resnet50 --epochs 150
 ```
 
 Or train all supported ResNet variants sequentially:
 
 ```bash
-cd baselines/alshazly2021_explainable_resnets
+cd baselines/ExplainableEar[23]
 python main.py --dataset-root /path/to/dataset --train-all
 ```
 
