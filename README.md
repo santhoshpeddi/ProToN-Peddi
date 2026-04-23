@@ -2,9 +2,9 @@
 
 This repository contains the baseline implementations used in our comparative study for **ProtoN: Prototype Node Graph Neural Network for Unconstrained Multi-Impression Ear Recognition**.
 
-**Paper:** *ProtoN: Prototype Node Graph Neural Network for Unconstrained Multi-Impression Ear Recognition*  
-Santhoshkumar Peddi, Sadhvik Bathini, Arun Balasubramanian, Monalisa Sarma, and Debasis Samanta  
-ArXiv: 2508.04381, 2025.
+>**Paper:** *ProtoN: Prototype Node Graph Neural Network for Unconstrained Multi-Impression Ear Recognition*  
+>Santhoshkumar Peddi, Sadhvik Bathini, Arun Balasubramanian, Monalisa Sarma, and Debasis Samanta  
+>ArXiv: 2508.04381, 2025.
 
 ## Purpose of this repository
 
