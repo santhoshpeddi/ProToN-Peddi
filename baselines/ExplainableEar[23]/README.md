@@ -47,7 +47,7 @@ The current implementation expects the dataset root to contain a class-folder st
 ## Files in this folder
 
 ```text
-alshazly2021_explainable_resnets/
+ExplainableEar[23]/
 ├── README.md
 ├── main.py
 ├── config.py
