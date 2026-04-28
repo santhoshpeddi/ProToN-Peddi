@@ -35,7 +35,7 @@ In particular:
 | Baseline | Source paper | DOI |
 |---|---|---|
 | Alshazly et al. (2021) | *Towards Explainable Ear Recognition Systems Using Deep Residual Networks* | [Link](https://doi.org/10.1109/ACCESS.2021.3109441) |
-
+| El-Naggar and Bourlai (2022) | *Exploring Deep Learning Ear Recognition in Thermal Images* | [Link](https://doi.org/10.1109/TBIOM.2022.3218151) |
 
 
 ## Reproducibility statement
@@ -59,13 +59,6 @@ pip install -r requirements.txt
 ## Running a baseline
 
 Example:
-
-```bash
-cd baselines/ExplainableEar[23]
-python main.py --dataset-root /path/to/dataset --variant resnet50 --epochs 150
-```
-
-Or train all supported ResNet variants sequentially:
 
 ```bash
 cd baselines/ExplainableEar[23]
