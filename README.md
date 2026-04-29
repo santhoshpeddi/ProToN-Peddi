@@ -26,6 +26,7 @@ In particular:
 └── baselines/
     └── ExplainableEar[23]/
     └── DenseNet[4]/
+    └── PrivacyPreserving[5]/
     └── ...
     ...
 ```
@@ -36,7 +37,7 @@ In particular:
 |---|---|---|
 | Alshazly et al. (2021) | *Towards Explainable Ear Recognition Systems Using Deep Residual Networks* | [Link](https://doi.org/10.1109/ACCESS.2021.3109441) |
 | El-Naggar and Bourlai (2022) | *Exploring Deep Learning Ear Recognition in Thermal Images* | [Link](https://doi.org/10.1109/TBIOM.2022.3218151) |
-
+| Chowdhury et al. (2022) | *Privacy Preserving Ear Recognition System Using Transfer Learning in Industry 4.0* | [Link](https://doi.org/10.1109/TII.2022.3196343) |
 
 ## Reproducibility statement
 
