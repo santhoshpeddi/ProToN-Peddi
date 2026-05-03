@@ -5,3 +5,9 @@ torchvision
 matplotlib
 opencv-python
 scikit-image
+pandas
+scikit-learn
+joblib
+timm
+tqdm
+scipy
