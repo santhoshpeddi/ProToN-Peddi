@@ -27,6 +27,7 @@ In particular:
     └── ExplainableEar[23]/
     └── DenseNet[4]/
     └── PrivacyPreserving[5]/
+    └── MDFNet[29]/
     └── ViTEar[6]/
     └── Ensemble[26]/
     └── Autoencoder[33]/
@@ -41,6 +42,7 @@ In particular:
 | Alshazly et al. (2021) | *Towards Explainable Ear Recognition Systems Using Deep Residual Networks* | [Link](https://doi.org/10.1109/ACCESS.2021.3109441) |
 | El-Naggar and Bourlai (2022) | *Exploring Deep Learning Ear Recognition in Thermal Images* | [Link](https://doi.org/10.1109/TBIOM.2022.3218151) |
 | Chowdhury et al. (2022) | *Privacy Preserving Ear Recognition System Using Transfer Learning in Industry 4.0* | [Link](https://doi.org/10.1109/TII.2022.3196343) |
+| Aiadi et al. (2023) | *MDFNet: an unsupervised lightweight network for ear print recognition* | [Link](https://doi.org/10.1007/s12652-022-04028-z) |
 | Emeršič et al. (2023) | *The Unconstrained Ear Recognition Challenge 2023: Maximizing Performance and Minimizing Bias* | [Link](https://doi.org/10.1109/IJCB57857.2023.10449062) |
 | Mehta et al. (2024) | *Ensemble-based hybrid transfer approach for an effective 2D ear recognition system* | [Link](https://doi.org/10.1109/ACCESS.2024.3485514) |
 | Pal et al. (2025) | *Exploration of a shape-focused autoencoder for improved ear biometrics* | [Link](https://doi.org/10.1007/s11042-025-20905-z) |
