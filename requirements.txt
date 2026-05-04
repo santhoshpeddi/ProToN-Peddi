@@ -11,3 +11,6 @@ joblib
 timm
 tqdm
 scipy
+
+protobuf
+grpcio-tools

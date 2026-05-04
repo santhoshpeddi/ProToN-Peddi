@@ -29,9 +29,10 @@ In particular:
     └── PrivacyPreserving[5]/
     └── MDFNet[29]/
     └── ViTEar[6]/
+    └── MEM-EAR[6]/
     └── Ensemble[26]/
     └── Autoencoder[33]/
-    └── ...
+    └── CIoEBT[34]/
     ...
 ```
 
@@ -46,6 +47,7 @@ In particular:
 | Emeršič et al. (2023) | *The Unconstrained Ear Recognition Challenge 2023: Maximizing Performance and Minimizing Bias* | [Link](https://doi.org/10.1109/IJCB57857.2023.10449062) |
 | Mehta et al. (2024) | *Ensemble-based hybrid transfer approach for an effective 2D ear recognition system* | [Link](https://doi.org/10.1109/ACCESS.2024.3485514) |
 | Pal et al. (2025) | *Exploration of a shape-focused autoencoder for improved ear biometrics* | [Link](https://doi.org/10.1007/s11042-025-20905-z) |
+| Omara and Soliman (2025) | *CIoEBT: Cancelable Internet of Ear Biometric Things Based -- A Novel Deep Metric Learning Approach* | [Link](https://doi.org/10.1016/j.eswa.2025.129439) |
 
 ## Reproducibility statement
 
